@@ -19,4 +19,4 @@ I'm an **Electrical Engineering student at UBC** with a strong interest in build
 
 ### Contact
 - Instagram: [@owen_3773](https://www.instagram.com/owen_3773)
-- Email: [owen@email.com](mailto:owen@email.com)
+- Email: [owen6156@gmail.com](mailto:owen6156@gmail.com)
