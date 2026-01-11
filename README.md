@@ -1,7 +1,22 @@
 ## Hi, I'm Owen 👋
 
-I'm a Electrical Engineer at UBC<br/>
-I make many personal projects to help me grow and pratice<br/>
-I love the creative and visual aspect of designing and creating<br/>
-I love optimizations and making something the best it can be<br/>
-I can be contacted easiest on [Instagram](https://www.instagram.com/owen_3773)
+I'm an **Electrical Engineering student at UBC** with a strong interest in building, optimizing, and visualizing systems.
+
+### What I do
+- Build **personal engineering projects** to deepen my understanding of hardware and software
+- Enjoy the **creative and visual side of design**, from concept to implementation
+- I also love **optimizing** systems to be faster, cleaner, and more efficient. 
+
+### Skills
+- Embedded systems & low-level programming  
+- Hardware–software integration  
+- Performance and efficiency optimization
+
+### Interests 
+- Sandbox Video Games
+- Digital art
+- Game Mod Creation
+
+### Contact
+- Instagram: [@owen_3773](https://www.instagram.com/owen_3773)
+- Email: [owen@email.com](mailto:owen@email.com)
