@@ -1,4 +1,4 @@
-## Hi, I'm Owen 👋
+## Hi, I'm Owen
 
 I'm an **Electrical Engineering student at UBC** with a strong interest in building, optimizing, and visualizing systems.
 
