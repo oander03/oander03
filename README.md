@@ -64,11 +64,11 @@
           </tr>
         </thead>
         <tbody>
-          <tr><td>ST Micro</td><td>ARM</td><td><code>STM32L051</code></td></tr>
-          <tr><td>Microchip</td><td>PIC32</td><td><code>MX130F064B</code></td></tr>
-          <tr><td>Nuvoton</td><td>8051</td><td><code>N76E003</code></td></tr>
-          <tr><td>Quartus</td><td>8051</td><td><code>CV-8052</code></td></tr>
-          <tr><td>Silicon Labs</td><td>8051</td><td><code>EFM8LB12</code></td></tr>
+          <tr><td height="45">ST Micro</td><td>ARM</td><td><code>STM32L051</code></td></tr>
+          <tr><td height="45">Microchip</td><td>PIC32</td><td><code>MX130F064B</code></td></tr>
+          <tr><td height="45">Nuvoton</td><td>8051</td><td><code>N76E003</code></td></tr>
+          <tr><td height="45">Quartus</td><td>8051</td><td><code>CV-8052</code></td></tr>
+          <tr><td height="45">Silicon Labs</td><td>8051</td><td><code>EFM8LB12</code></td></tr>
         </tbody>
       </table>
     </td>
