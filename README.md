@@ -27,7 +27,7 @@
           <tr><td><img src="https://img.shields.io/badge/SystemVerilog-%234B215C.svg?style=flat&logo=intel&logoColor=white"></td><td>Intermediate</td></tr>
           <tr><td><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"></td><td>Advanced</td></tr>
           <tr><td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></td><td>Intermediate</td></tr>
-          <tr><td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"></td><td>Advanced</td></tr>
+          <tr><td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3"> </td><td>Advanced</td></tr>
         </tbody>
       </table>
     </td>
