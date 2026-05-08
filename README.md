@@ -17,7 +17,10 @@
           </tr>
         </thead>
         <tbody>
-          <tr><td>Java</td><td>Advanced</td></tr>
+          <tr><td>Java</td><tr>
+  <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java"></td>
+  <td>Advanced</td>
+</tr></tr>
           <tr><td>C</td><td>Proficient</td></tr>
           <tr><td>Assembly</td><td>Intermediate</td></tr>
           <tr><td>SystemVerilog</td><td>Intermediate</td></tr>
