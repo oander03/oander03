@@ -88,7 +88,7 @@
   <br/>
   <ul>
     <li><b>Sandbox Video Games:</b> Planet Coaster 2, Minecraft, and Terraria.</li>
-    <li><b>Digital Art:</b> Creating visual designs and sharing them on Instagram.</li>
+    <li><b>Digital Art:</b> Creating art and sharing them on Instagram.</li>
     <li><b>Game Mod Creation:</b> Developing mods for Minecraft, Deadlock, and Terraria.</li>
   </ul>
 </details>
