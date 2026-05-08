@@ -35,11 +35,11 @@
           </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"></td>
-            <td><img src="https://geps.dev/progress/90?dangerColor=808080&warningColor=808080&successColor=55a630" alt="90%"></td>
+            <td><img src="https://geps.dev/progress/95?dangerColor=808080&warningColor=808080&successColor=55a630" alt="95%"></td>
           </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/SystemVerilog-%234B215C.svg?style=flat&logo=intel&logoColor=white"></td>
-            <td><img src="https://geps.dev/progress/80?dangerColor=808080&warningColor=808080&successColor=80b918" alt="80%"></td>
+            <td><img src="https://geps.dev/progress/90?dangerColor=808080&warningColor=808080&successColor=80b918" alt="90%"></td>
           </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"></td>
@@ -64,11 +64,11 @@
           </tr>
         </thead>
         <tbody>
-          <tr><td height="50">ST Micro</td><td>ARM</td><td><code>STM32L051</code></td></tr>
-          <tr><td height="50">Microchip</td><td>PIC32</td><td><code>MX130F064B</code></td></tr>
-          <tr><td height="50">Nuvoton</td><td>8051</td><td><code>N76E003</code></td></tr>
-          <tr><td height="50">Quartus</td><td>8051</td><td><code>CV-8052</code></td></tr>
-          <tr><td height="50">Silicon Labs</td><td>8051</td><td><code>EFM8LB12</code></td></tr>
+          <tr><td height="52">ST Micro</td><td>ARM</td><td><code>STM32L051</code></td></tr>
+          <tr><td height="52">Microchip</td><td>PIC32</td><td><code>MX130F064B</code></td></tr>
+          <tr><td height="52">Nuvoton</td><td>8051</td><td><code>N76E003</code></td></tr>
+          <tr><td height="52">Quartus</td><td>8051</td><td><code>CV-8052</code></td></tr>
+          <tr><td height="52">Silicon Labs</td><td>8051</td><td><code>EFM8LB12</code></td></tr>
         </tbody>
       </table>
     </td>
