@@ -50,9 +50,15 @@
 </table>
 
 ### Interests 
-- Sandbox Video Games
-- Digital art
-- Game Mod Creation
+<details>
+  <summary><b>View my creative interests</b></summary>
+  <br/>
+  <ul>
+    <li><b>Sandbox Video Games:</b> Exploring complex mechanics and automation.</li>
+    <li><b>Digital Art:</b> Conceptualizing visual designs.</li>
+    <li><b>Game Mod Creation:</b> Bridging the gap between software optimization and gameplay.</li>
+  </ul>
+</details>
 
 ### What I do
 - Build **personal engineering projects** to deepen my understanding of hardware and software
