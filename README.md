@@ -21,7 +21,7 @@
           </tr>
         </thead>
         <tbody>
-          <tr><td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"></td><td>Advanced</td></tr>
+          <tr><td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"></td><td>Intermediate</td></tr>
           <tr><td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"></td><td>Advanced</td></tr>
           <tr><td><img src="https://img.shields.io/badge/Assembly-%232E3A59.svg?style=flat&logo=microchip&logoColor=white"></td><td>Advanced</td></tr>
           <tr><td><img src="https://img.shields.io/badge/SystemVerilog-%234B215C.svg?style=flat&logo=intel&logoColor=white"></td><td>Intermediate</td></tr>
