@@ -61,6 +61,12 @@
 - Enjoy the **creative and visual side of design**, from concept to implementation
 - I also love **optimizing** systems to be faster, cleaner, more efficient and better
 
+### 🚀 GitHub Stats & Activity
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oander03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oander03&layout=compact&theme=tokyonight" />
+</p>
+
 ### Interests
 <details>
   <summary><b>View my creative interests</b></summary>
