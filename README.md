@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Owen 👋</h1>
+  <h1>Hi, I'm Owen</h1>
   <p><strong>Electrical Engineering Student at UBC</strong></p>
   <p><em>Building, optimizing, and visualizing systems from the ground up.</em></p>
 </div>
@@ -82,7 +82,7 @@
 - Enjoy the **creative and visual side of design**, from concept to implementation
 - I also love **optimizing** systems to be faster, cleaner, more efficient and better
 
-### 🎨 Interests
+### Interests
 <details>
   <summary><b>View my creative interests</b></summary>
   <br/>
