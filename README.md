@@ -27,7 +27,7 @@
           </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C"></td>
-            <td>Intermediate</td>
+            <td>Advanced</td>
           </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/Assembly-%232E3A59.svg?style=flat&logo=microchip&logoColor=white" alt="Assembly"></td>
