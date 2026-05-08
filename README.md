@@ -61,7 +61,7 @@
 - Enjoy the **creative and visual side of design**, from concept to implementation
 - I also love **optimizing** systems to be faster, cleaner, more efficient and better
 
-### Interests
+### Beyond engineering
 <details>
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">View my creative interests</summary>
   <blockquote style="border-left: 5px solid #0077B5; background-color: #f9f9f9; padding: 10px;">
