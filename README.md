@@ -27,11 +27,11 @@
           </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C"></td>
-            <td>Proficient</td>
+            <td>Intermediate</td>
           </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/Assembly-%232E3A59.svg?style=flat&logo=microchip&logoColor=white" alt="Assembly"></td>
-            <td>Intermediate</td>
+            <td>Advanced</td>
           </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/SystemVerilog-%234B215C.svg?style=flat&logo=intel&logoColor=white" alt="SystemVerilog"></td>
@@ -39,15 +39,15 @@
           </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"></td>
-            <td>Foundational</td>
+            <td>Advanced</td>
           </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></td>
-            <td>Foundational</td>
+            <td>Intermediate</td>
           </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML"></td>
-            <td>Foundational</td>
+            <td>Advanced</td>
           </tr>
         </tbody>
       </table>
