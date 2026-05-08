@@ -8,67 +8,46 @@
 
 ### Skills & Experience
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="padding-right: 10px;">
       <div align="center"><strong>Coding Languages</strong></div>
       <br/>
-      <table align="center">
+      <table align="center" width="100%">
         <thead>
           <tr>
-            <th>Language</th>
-            <th>Level</th>
+            <th align="left">Language</th>
+            <th align="left">Level</th>
           </tr>
         </thead>
         <tbody>
-          <tr>
-            <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java"></td>
-            <td>Advanced</td>
-          </tr>
-          <tr>
-            <td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C"></td>
-            <td>Advanced</td>
-          </tr>
-          <tr>
-            <td><img src="https://img.shields.io/badge/Assembly-%232E3A59.svg?style=flat&logo=microchip&logoColor=white" alt="Assembly"></td>
-            <td>Advanced</td>
-          </tr>
-          <tr>
-            <td><img src="https://img.shields.io/badge/SystemVerilog-%234B215C.svg?style=flat&logo=intel&logoColor=white" alt="SystemVerilog"></td>
-            <td>Intermediate</td>
-          </tr>
-          <tr>
-            <td><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"></td>
-            <td>Advanced</td>
-          </tr>
-          <tr>
-            <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></td>
-            <td>Intermediate</td>
-          </tr>
-          <tr>
-            <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML"></td>
-            <td>Advanced</td>
-          </tr>
+          <tr><td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"></td><td>Advanced</td></tr>
+          <tr><td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"></td><td>Advanced</td></tr>
+          <tr><td><img src="https://img.shields.io/badge/Assembly-%232E3A59.svg?style=flat&logo=microchip&logoColor=white"></td><td>Advanced</td></tr>
+          <tr><td><img src="https://img.shields.io/badge/SystemVerilog-%234B215C.svg?style=flat&logo=intel&logoColor=white"></td><td>Intermediate</td></tr>
+          <tr><td><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"></td><td>Advanced</td></tr>
+          <tr><td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></td><td>Intermediate</td></tr>
+          <tr><td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"></td><td>Advanced</td></tr>
         </tbody>
       </table>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="padding-left: 10px;">
       <div align="center"><strong>Microcontrollers</strong></div>
       <br/>
-      <table align="center">
+      <table align="center" width="100%">
         <thead>
           <tr>
-            <th>Maker</th>
-            <th>Family</th>
-            <th>MCU</th>
+            <th align="left">Maker</th>
+            <th align="left">Family</th>
+            <th align="left">MCU</th>
           </tr>
         </thead>
         <tbody>
-          <tr><td>ST Micro</td><td>ARM</td><td>STM32L051</td></tr>
-          <tr><td>Microchip</td><td>PIC32</td><td>MX130F064B</td></tr>
-          <tr><td>Nuvoton</td><td>8051</td><td>N76E003</td></tr>
-          <tr><td>Quartus</td><td>8051</td><td>CV-8052</td></tr>
-          <tr><td>Silicon Labs</td><td>8051</td><td>EFM8LB12</td></tr>
+          <tr><td>ST Micro</td><td>ARM</td><td><code>STM32L051</code></td></tr>
+          <tr><td>Microchip</td><td>PIC32</td><td><code>MX130F064B</code></td></tr>
+          <tr><td>Nuvoton</td><td>8051</td><td><code>N76E003</code></td></tr>
+          <tr><td>Quartus</td><td>8051</td><td><code>CV-8052</code></td></tr>
+          <tr><td>Silicon Labs</td><td>8051</td><td><code>EFM8LB12</code></td></tr>
         </tbody>
       </table>
     </td>
