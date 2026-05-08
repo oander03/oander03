@@ -57,6 +57,18 @@
 ---
 
 ### What I do
+
+<details>
+  <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">View my creative interests</summary>
+  <blockquote style="border-left: 5px solid #0077B5; background-color: #f9f9f9; padding: 10px;">
+    <ul>
+      <li>Build <b>personal engineering projects</b> to deepen my understanding of hardware and software.</li>
+      <li>Enjoy the <b>creative and visual side of design</b>, from concept to implementation.</li>
+      <li>I also love <b>optimizing</b> systems to be faster, cleaner, more efficient and better.</li>
+    </ul>
+  </blockquote>
+</details>
+
 - Build **personal engineering projects** to deepen my understanding of hardware and software
 - Enjoy the **creative and visual side of design**, from concept to implementation
 - I also love **optimizing** systems to be faster, cleaner, more efficient and better
