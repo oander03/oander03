@@ -54,9 +54,9 @@
   <summary><b>View my creative interests</b></summary>
   <br/>
   <ul>
-    <li><b>Sandbox Video Games:</b> Exploring complex mechanics and automation.</li>
-    <li><b>Digital Art:</b> Conceptualizing visual designs.</li>
-    <li><b>Game Mod Creation:</b> Bridging the gap between software optimization and gameplay.</li>
+    <li><b>Sandbox Video Games:</b> Planet Coaster 2, Minecraft, and Terraria.</li>
+    <li><b>Digital Art:</b> Making art and posting it con insta.</li>
+    <li><b>Game Mod Creation:</b> Minecraft mods, Deadlock mods, terraria mods.</li>
   </ul>
 </details>
 
