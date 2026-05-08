@@ -22,72 +22,13 @@
           </tr>
         </thead>
         <tbody>
-          <!-- Java: 75% -->
-          <tr>
-            <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"></td>
-            <td>
-              <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%;">
-                <div style="background-color: #007bff; width: 75%; height: 10px; border-radius: 10px;"></div>
-              </div>
-            </td>
-          </tr>
-          <!-- C: 90% -->
-          <tr>
-            <td><img src="https://img.shields.io/badge/-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C"></td>
-            <td>
-              <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%;">
-                <div style="background-color: #007bff; width: 90%; height: 10px; border-radius: 10px;"></div>
-              </div>
-            </td>
-          </tr>
-          <!-- Assembly: 85% -->
-          <tr>
-            <td><img src="https://img.shields.io/badge/Assembly-%232E3A59.svg?style=flat&logo=microchip&logoColor=white"></td>
-            <td>
-              <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%;">
-                <div style="background-color: #007bff; width: 85%; height: 10px; border-radius: 10px;"></div>
-              </div>
-            </td>
-          </tr>
-          <!-- SystemVerilog: 65% -->
-          <tr>
-            <td><img src="https://img.shields.io/badge/SystemVerilog-%234B215C.svg?style=flat&logo=intel&logoColor=white"></td>
-            <td>
-              <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%;">
-                <div style="background-color: #007bff; width: 65%; height: 10px; border-radius: 10px;"></div>
-              </div>
-            </td>
-          </tr>
-          <!-- Python: 100% -->
-          <tr>
-            <td><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"></td>
-            <td>
-              <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%;">
-                <div style="background-color: #007bff; width: 100%; height: 10px; border-radius: 10px;"></div>
-              </div>
-            </td>
-          </tr>
-          <!-- JavaScript: 70% -->
-          <tr>
-            <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></td>
-            <td>
-              <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%;">
-                <div style="background-color: #007bff; width: 70%; height: 10px; border-radius: 10px;"></div>
-              </div>
-            </td>
-          </tr>
-          <!-- HTML/CSS: 95% -->
-          <tr>
-            <td>
-              <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"> 
-              <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
-            </td>
-            <td>
-              <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%;">
-                <div style="background-color: #007bff; width: 95%; height: 10px; border-radius: 10px;"></div>
-              </div>
-            </td>
-          </tr>
+          <tr><td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"></td><td><progress value="75" max="100"></progress></td></tr>
+          <tr><td><img src="https://img.shields.io/badge/-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C"></td><td><progress value="90" max="100"></progress></td></tr>
+          <tr><td><img src="https://img.shields.io/badge/Assembly-%232E3A59.svg?style=flat&logo=microchip&logoColor=white"></td><td><progress value="95" max="100"></progress></td></tr>
+          <tr><td><img src="https://img.shields.io/badge/SystemVerilog-%234B215C.svg?style=flat&logo=intel&logoColor=white"></td><td><progress value="65" max="100"></progress></td></tr>
+          <tr><td><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"></td><td><progress value="100" max="100"></progress></td></tr>
+          <tr><td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></td><td><progress value="70" max="100"></progress></td></tr>
+          <tr><td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"></td><td><progress value="90" max="100"></progress></td></tr>
         </tbody>
       </table>
     </td>
