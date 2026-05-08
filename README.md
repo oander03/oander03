@@ -69,10 +69,6 @@
   </blockquote>
 </details>
 
-- Build **personal engineering projects** to deepen my understanding of hardware and software
-- Enjoy the **creative and visual side of design**, from concept to implementation
-- I also love **optimizing** systems to be faster, cleaner, more efficient and better
-
 ### Beyond engineering
 <details>
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">View my creative interests</summary>
