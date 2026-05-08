@@ -52,7 +52,7 @@
         </tbody>
       </table>
     </td>
-    <td valign="top" width="50%" style="padding-left: 10px;">
+    <td valign="top" width="50%" style="padding-left: 15px;">
       <div align="center"><strong>Microcontrollers</strong></div>
       <br/>
       <table align="center" width="100%">
