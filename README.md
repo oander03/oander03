@@ -7,15 +7,49 @@ I'm an **Electrical Engineering student at UBC** with a strong interest in build
 - Enjoy the **creative and visual side of design**, from concept to implementation
 - I also love **optimizing** systems to be faster, cleaner, more efficient and better
 
-### Microcontrollers
+### Skills & Experience
 
-| Maker | Family | Microcontroller |
-| :--- | :--- | :--- |
-| ST Microelectronics | ARM | STM32L051 |
-| Microchip | PIC32 | MX130F064B |
-| Nuvoton | 8051 | N76E003 |
-| Soft Core in Quartus | 8051 | CV-8052 |
-| Silicon Labs | 8051 | EFM8LB12F64 |
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Coding Languages</strong>
+      <table>
+        <thead>
+          <tr>
+            <th>Language</th>
+            <th>Level</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>Java</td><td>Advanced</td></tr>
+          <tr><td>C / C++</td><td>Proficient</td></tr>
+          <tr><td>Assembly (8051)</td><td>Intermediate</td></tr>
+          <tr><td>MATLAB</td><td>Intermediate</td></tr>
+          <tr><td>Python</td><td>Foundational</td></tr>
+        </tbody>
+      </table>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Microcontrollers</strong>
+      <table>
+        <thead>
+          <tr>
+            <th>Maker</th>
+            <th>Family</th>
+            <th>MCU</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>ST Micro</td><td>ARM</td><td>STM32L051</td></tr>
+          <tr><td>Microchip</td><td>PIC32</td><td>MX130F064B</td></tr>
+          <tr><td>Nuvoton</td><td>8051</td><td>N76E003</td></tr>
+          <tr><td>Quartus</td><td>8051</td><td>CV-8052</td></tr>
+          <tr><td>Silicon Labs</td><td>8051</td><td>EFM8LB12</td></tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ### Interests 
 - Sandbox Video Games
