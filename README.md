@@ -61,21 +61,16 @@
 - Enjoy the **creative and visual side of design**, from concept to implementation
 - I also love **optimizing** systems to be faster, cleaner, more efficient and better
 
-### 🚀 GitHub Stats & Activity
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oander03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oander03&layout=compact&theme=tokyonight" />
-</p>
-
 ### Interests
 <details>
-  <summary><b>View my creative interests</b></summary>
-  <br/>
-  <ul>
-    <li><b>Sandbox Video Games:</b> Planet Coaster 2, Minecraft, and Terraria.</li>
-    <li><b>Digital Art:</b> Creating art and sharing them on Instagram.</li>
-    <li><b>Game Mod Creation:</b> Developing mods for Minecraft, Deadlock, and Terraria.</li>
-  </ul>
+  <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">View my creative interests</summary>
+  <blockquote style="border-left: 5px solid #0077B5; background-color: #f9f9f9; padding: 10px;">
+    <ul>
+      <li><b>Sandbox Video Games:</b> Planet Coaster 2, Minecraft, and Terraria.</li>
+      <li><b>Digital Art:</b> Creating art and sharing them on Instagram.</li>
+      <li><b>Game Mod Creation:</b> Developing mods for Minecraft, Deadlock, and Terraria.</li>
+    </ul>
+  </blockquote>
 </details>
 
 ---
