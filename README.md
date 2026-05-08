@@ -65,7 +65,9 @@
 - Enjoy the **creative and visual side of design**, from concept to implementation
 - I also love **optimizing** systems to be faster, cleaner, more efficient and better
 
-### Socials
+<div align="center">
+  <h1>Hi, I'm Owen</h1>
+</div>
 <p align="center">
   <a href="https://linkedin.com/in/owen-anderson-a03b95355"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:owen6156@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
