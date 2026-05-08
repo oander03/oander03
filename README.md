@@ -2,11 +2,6 @@
 
 I'm an **Electrical Engineering student at UBC** with a strong interest in building, optimizing, and visualizing systems.
 
-### What I do
-- Build **personal engineering projects** to deepen my understanding of hardware and software
-- Enjoy the **creative and visual side of design**, from concept to implementation
-- I also love **optimizing** systems to be faster, cleaner, more efficient and better
-
 ### Skills & Experience
 
 <table>
@@ -57,6 +52,11 @@ I'm an **Electrical Engineering student at UBC** with a strong interest in build
 - Sandbox Video Games
 - Digital art
 - Game Mod Creation
+
+### What I do
+- Build **personal engineering projects** to deepen my understanding of hardware and software
+- Enjoy the **creative and visual side of design**, from concept to implementation
+- I also love **optimizing** systems to be faster, cleaner, more efficient and better
 
 ### Socials
 
