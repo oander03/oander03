@@ -75,27 +75,30 @@
   </tr>
 </table>
 
-### Interests 
-<details>
-  <summary><b>View my creative interests</b></summary>
-  <br/>
-  <ul>
-    <li><b>Sandbox Video Games:</b> Planet Coaster 2, Minecraft, and Terraria.</li>
-    <li><b>Digital Art:</b> Making art and posting it con insta.</li>
-    <li><b>Game Mod Creation:</b> Minecraft mods, Deadlock mods, terraria mods.</li>
-  </ul>
-</details>
+---
 
 ### What I do
 - Build **personal engineering projects** to deepen my understanding of hardware and software
 - Enjoy the **creative and visual side of design**, from concept to implementation
 - I also love **optimizing** systems to be faster, cleaner, more efficient and better
 
+### 🎨 Interests
+<details>
+  <summary><b>View my creative interests</b></summary>
+  <br/>
+  <ul>
+    <li><b>Sandbox Video Games:</b> Planet Coaster 2, Minecraft, and Terraria.</li>
+    <li><b>Digital Art:</b> Creating visual designs and sharing them on Instagram.</li>
+    <li><b>Game Mod Creation:</b> Developing mods for Minecraft, Deadlock, and Terraria.</li>
+  </ul>
+</details>
+
+---
+
 <div align="center">
-  <h1>Socials</h1>
-</div>
-<p align="center">
+  <h3>Connect with me</h3>
   <a href="https://linkedin.com/in/owen-anderson-a03b95355"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:owen6156@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://youtube.com/@Hydroset17"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-</p>
+  <a href="https://instagram.com/owen_3773"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+</div>
