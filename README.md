@@ -1,6 +1,11 @@
-## Hi, I'm Owen
+<div align="center">
+  <h1>Hi, I'm Owen 👋</h1>
+  <p><em>Electrical Engineering Student at UBC</em></p>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=oander03&show_icons=true&theme=tokyonight" alt="Owen's GitHub Stats" />
+</div>
 
-I'm an **Electrical Engineering student at UBC** with a strong interest in building, optimizing, and visualizing systems.
+<br/>
 
 ### Skills & Experience
 
