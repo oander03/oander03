@@ -59,7 +59,7 @@
 ### What I do
 
 <details>
-  <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">View my work</summary>
+  <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">View what I do</summary>
   <blockquote style="border-left: 5px solid #0077B5; background-color: #f9f9f9; padding: 10px;">
     <ul>
       <li>Build <b>personal engineering projects</b> to deepen my understanding of hardware and software.</li>
