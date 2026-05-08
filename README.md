@@ -7,6 +7,19 @@ I'm an **Electrical Engineering student at UBC** with a strong interest in build
 - Enjoy the **creative and visual side of design**, from concept to implementation
 - I also love **optimizing** systems to be faster, cleaner, more efficient and better
 
+### Microcontrollers
+
+| Maker | Family | Microcontroller |
+| :--- | :--- | :--- |
+| NXP | ARM | LPC824 |
+| ST Microelectronics | ARM | STM32L051 |
+| Microchip | PIC32 | MX130F064B |
+| TI | MSP430 | MSP430G2553 |
+| Atmel | AVR | ATMega328P¹ |
+| Nuvoton | 8051 | N76E003 |
+| Soft Core in Quartus | 8051 | CV-8052 |
+| Silicon Labs | 8051 | EFM8LB12F64 |
+
 ### Interests 
 - Sandbox Video Games
 - Digital art
