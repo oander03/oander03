@@ -34,7 +34,7 @@
             <td><img src="https://geps.dev/progress/100?dangerColor=808080&warningColor=808080&successColor=228b22" alt="100%"></td>
           </tr>
           <tr>
-            <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"></td>
+            <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3"></td>
             <td><img src="https://geps.dev/progress/95?dangerColor=808080&warningColor=808080&successColor=55a630" alt="95%"></td>
           </tr>
           <tr>
