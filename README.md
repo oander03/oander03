@@ -23,32 +23,32 @@
         </thead>
         <tbody>
           <tr>
-            <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"></td>
-            <td><img src="https://geps.dev/progress/75?dangerColor=808080&warningColor=808080&successColor=007bff" alt="75%"></td>
-          </tr>
-          <tr>
-            <td><img src="https://img.shields.io/badge/-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C"></td>
-            <td><img src="https://geps.dev/progress/90?dangerColor=808080&warningColor=808080&successColor=007bff" alt="90%"></td>
-          </tr>
-          <tr>
-            <td><img src="https://img.shields.io/badge/Assembly-%232E3A59.svg?style=flat&logo=microchip&logoColor=white"></td>
-            <td><img src="https://geps.dev/progress/95?dangerColor=808080&warningColor=808080&successColor=007bff" alt="95%"></td>
-          </tr>
-          <tr>
-            <td><img src="https://img.shields.io/badge/SystemVerilog-%234B215C.svg?style=flat&logo=intel&logoColor=white"></td>
-            <td><img src="https://geps.dev/progress/65?dangerColor=808080&warningColor=808080&successColor=007bff" alt="65%"></td>
-          </tr>
-          <tr>
             <td><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"></td>
             <td><img src="https://geps.dev/progress/100?dangerColor=808080&warningColor=808080&successColor=007bff" alt="100%"></td>
           </tr>
           <tr>
-            <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></td>
-            <td><img src="https://geps.dev/progress/70?dangerColor=808080&warningColor=808080&successColor=007bff" alt="70%"></td>
+            <td><img src="https://img.shields.io/badge/-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C"></td>
+            <td><img src="https://geps.dev/progress/100?dangerColor=808080&warningColor=808080&successColor=007bff" alt="100%"></td>
+          </tr>
+          <tr>
+            <td><img src="https://img.shields.io/badge/Assembly-%232E3A59.svg?style=flat&logo=microchip&logoColor=white"></td>
+            <td><img src="https://geps.dev/progress/100?dangerColor=808080&warningColor=808080&successColor=007bff" alt="100%"></td>
           </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"></td>
             <td><img src="https://geps.dev/progress/90?dangerColor=808080&warningColor=808080&successColor=007bff" alt="90%"></td>
+          </tr>
+          <tr>
+            <td><img src="https://img.shields.io/badge/SystemVerilog-%234B215C.svg?style=flat&logo=intel&logoColor=white"></td>
+            <td><img src="https://geps.dev/progress/80?dangerColor=808080&warningColor=808080&successColor=007bff" alt="80%"></td>
+          </tr>
+          <tr>
+            <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"></td>
+            <td><img src="https://geps.dev/progress/75?dangerColor=808080&warningColor=808080&successColor=007bff" alt="75%"></td>
+          </tr>
+          <tr>
+            <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></td>
+            <td><img src="https://geps.dev/progress/70?dangerColor=808080&warningColor=808080&successColor=007bff" alt="70%"></td>
           </tr>
         </tbody>
       </table>
