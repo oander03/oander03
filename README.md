@@ -1,15 +1,19 @@
 <div align="center">
-  <h1>Hi, I'm Owen</h1>
-  <p><em>Electrical Engineering Student at UBC</em></p>
+  <h1>Hi, I'm Owen 👋</h1>
+  <p><strong>Electrical Engineering Student at UBC</strong></p>
+  <p><em>Building, optimizing, and visualizing systems from the ground up.</em></p>
 </div>
+
+--- 
 
 ### Skills & Experience
 
-<table>
+<table border="0">
   <tr>
     <td valign="top" width="50%">
-      <strong>Coding Languages</strong>
-      <table>
+      <div align="center"><strong>Coding Languages</strong></div>
+      <br/>
+      <table align="center">
         <thead>
           <tr>
             <th>Language</th>
@@ -25,17 +29,33 @@
             <td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C"></td>
             <td>Proficient</td>
           </tr>
-          <tr><td>Assembly</td><td>Intermediate</td></tr>
-          <tr><td>SystemVerilog</td><td>Intermediate</td></tr>
-          <tr><td>Python</td><td>Foundational</td></tr>
-          <tr><td>JavaScript</td><td>Foundational</td></tr>
-          <tr><td>HTML / CSS</td><td>Foundational</td></tr>
+          <tr>
+            <td><img src="https://img.shields.io/badge/Assembly-%232E3A59.svg?style=flat&logo=microchip&logoColor=white" alt="Assembly"></td>
+            <td>Intermediate</td>
+          </tr>
+          <tr>
+            <td><img src="https://img.shields.io/badge/SystemVerilog-%234B215C.svg?style=flat&logo=intel&logoColor=white" alt="SystemVerilog"></td>
+            <td>Intermediate</td>
+          </tr>
+          <tr>
+            <td><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"></td>
+            <td>Foundational</td>
+          </tr>
+          <tr>
+            <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></td>
+            <td>Foundational</td>
+          </tr>
+          <tr>
+            <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML"></td>
+            <td>Foundational</td>
+          </tr>
         </tbody>
       </table>
     </td>
     <td valign="top" width="50%">
-      <strong>Microcontrollers</strong>
-      <table>
+      <div align="center"><strong>Microcontrollers</strong></div>
+      <br/>
+      <table align="center">
         <thead>
           <tr>
             <th>Maker</th>
