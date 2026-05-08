@@ -66,9 +66,9 @@
         <tbody>
           <tr><td height="54">ST Micro</td><td>ARM</td><td><code>STM32L051</code></td></tr>
           <tr><td height="54">Microchip</td><td>PIC32</td><td><code>MX130F064B</code></td></tr>
-          <tr><td height="54">Nuvoton</td><td>8051</td><td><code>N76E003</code></td></tr>
+          <tr><td height="53">Nuvoton</td><td>8051</td><td><code>N76E003</code></td></tr>
           <tr><td height="54">Quartus</td><td>8051</td><td><code>CV-8052</code></td></tr>
-          <tr><td height="54">Silicon Labs</td><td>8051</td><td><code>EFM8LB12</code></td></tr>
+          <tr><td height="53">Silicon Labs</td><td>8051</td><td><code>EFM8LB12</code></td></tr>
         </tbody>
       </table>
     </td>
