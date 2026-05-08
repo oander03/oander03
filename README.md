@@ -3,8 +3,6 @@
   <p><em>Electrical Engineering Student at UBC</em></p>
 </div>
 
-<br/>
-
 ### Skills & Experience
 
 <table>
