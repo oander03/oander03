@@ -22,32 +22,35 @@
         </thead>
         <tbody>
           <tr>
-            <td><a href="#!"><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"></a></td>
-            <td><a href="#!"><img src="https://geps.dev/progress/100?dangerColor=808080&warningColor=808080&successColor=228b22" alt="100%"></a></td>
+            <td><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" style="cursor: default;"></td>
+            <td><img src="https://geps.dev/progress/100?dangerColor=808080&warningColor=808080&successColor=228b22" alt="100%" style="cursor: default;"></td>
           </tr>
           <tr>
-            <td><a href="#!"><img src="https://img.shields.io/badge/-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C"></a></td>
-            <td><a href="#!"><img src="https://geps.dev/progress/100?dangerColor=808080&warningColor=808080&successColor=228b22" alt="100%"></a></td>
+            <td><img src="https://img.shields.io/badge/-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" style="cursor: default;"></td>
+            <td><img src="https://geps.dev/progress/100?dangerColor=808080&warningColor=808080&successColor=228b22" alt="100%" style="cursor: default;"></td>
           </tr>
           <tr>
-            <td><a href="#!"><img src="https://img.shields.io/badge/Assembly-%232E3A59.svg?style=flat&logo=microchip&logoColor=white"></a></td>
-            <td><a href="#!"><img src="https://geps.dev/progress/100?dangerColor=808080&warningColor=808080&successColor=228b22" alt="100%"></a></td>
+            <td><img src="https://img.shields.io/badge/Assembly-%232E3A59.svg?style=flat&logo=microchip&logoColor=white" style="cursor: default;"></td>
+            <td><img src="https://geps.dev/progress/100?dangerColor=808080&warningColor=808080&successColor=228b22" alt="100%" style="cursor: default;"></td>
           </tr>
           <tr>
-            <td><a href="#!"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"></a> <a href="#!"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3"></a></td>
-            <td><a href="#!"><img src="https://geps.dev/progress/95?dangerColor=808080&warningColor=808080&successColor=55a630" alt="95%"></a></td>
+            <td>
+              <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" style="cursor: default;"> 
+              <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" style="cursor: default;">
+            </td>
+            <td><img src="https://geps.dev/progress/95?dangerColor=808080&warningColor=808080&successColor=55a630" alt="95%" style="cursor: default;"></td>
           </tr>
           <tr>
-            <td><a href="#!"><img src="https://img.shields.io/badge/SystemVerilog-%234B215C.svg?style=flat&logo=intel&logoColor=white"></a></td>
-            <td><a href="#!"><img src="https://geps.dev/progress/90?dangerColor=808080&warningColor=808080&successColor=80b918" alt="90%"></a></td>
+            <td><img src="https://img.shields.io/badge/SystemVerilog-%234B215C.svg?style=flat&logo=intel&logoColor=white" style="cursor: default;"></td>
+            <td><img src="https://geps.dev/progress/90?dangerColor=808080&warningColor=808080&successColor=80b918" alt="90%" style="cursor: default;"></td>
           </tr>
           <tr>
-            <td><a href="#!"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"></a></td>
-            <td><a href="#!"><img src="https://geps.dev/progress/75?dangerColor=808080&warningColor=808080&successColor=aacc00" alt="75%"></a></td>
+            <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" style="cursor: default;"></td>
+            <td><img src="https://geps.dev/progress/75?dangerColor=808080&warningColor=808080&successColor=aacc00" alt="75%" style="cursor: default;"></td>
           </tr>
           <tr>
-            <td><a href="#!"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></a></td>
-            <td><a href="#!"><img src="https://geps.dev/progress/70?dangerColor=808080&warningColor=808080&successColor=bfd200" alt="70%"></a></td>
+            <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" style="cursor: default;"></td>
+            <td><img src="https://geps.dev/progress/70?dangerColor=808080&warningColor=808080&successColor=bfd200" alt="70%" style="cursor: default;"></td>
           </tr>
         </tbody>
       </table>
