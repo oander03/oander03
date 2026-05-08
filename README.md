@@ -22,10 +22,12 @@ I'm an **Electrical Engineering student at UBC** with a strong interest in build
         </thead>
         <tbody>
           <tr><td>Java</td><td>Advanced</td></tr>
-          <tr><td>C / C++</td><td>Proficient</td></tr>
-          <tr><td>Assembly (8051)</td><td>Intermediate</td></tr>
-          <tr><td>MATLAB</td><td>Intermediate</td></tr>
+          <tr><td>C</td><td>Proficient</td></tr>
+          <tr><td>Assembly</td><td>Intermediate</td></tr>
+          <tr><td>SystemVerilog</td><td>Intermediate</td></tr>
           <tr><td>Python</td><td>Foundational</td></tr>
+          <tr><td>JavaScript</td><td>Foundational</td></tr>
+          <tr><td>HTML / CSS</td><td>Foundational</td></tr>
         </tbody>
       </table>
     </td>
