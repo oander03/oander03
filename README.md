@@ -58,27 +58,32 @@
 
 ### What I do
 
+
+
 <details>
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">View what I do</summary>
-  <div style="margin-top: 10px; margin-left: 20px;">
+  <blockquote style="border-left: 5px solid #0077B5; background-color: #f9f9f9; padding: 10px;">
     <ul>
       <li>Build <b>personal engineering projects</b> to deepen my understanding of hardware and software.</li>
       <li>Enjoy the <b>creative and visual side of design</b>, from concept to implementation.</li>
       <li>I also love <b>optimizing</b> systems to be faster, cleaner, more efficient and better.</li>
     </ul>
-  </div>
+  </blockquote>
 </details>
 
+
+
 ### Beyond engineering
+
 <details>
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">View my creative interests</summary>
-  <div style="margin-top: 10px; margin-left: 20px;">
+  <blockquote style="border-left: 5px solid #0077B5; background-color: #f9f9f9; padding: 10px;">
     <ul>
       <li><b>Sandbox Video Games:</b> Planet Coaster 2, Minecraft, and Terraria.</li>
       <li><b>Digital Art:</b> Creating art and sharing them on Instagram.</li>
       <li><b>Game Mod Creation:</b> Developing mods for Minecraft, Deadlock, and Terraria.</li>
     </ul>
-  </div>
+  </blockquote>
 </details>
 
 ---
