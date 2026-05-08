@@ -24,38 +24,38 @@
         <tbody>
           <tr>
             <td><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"></td>
-            <!-- 100% - Green -->
-            <td><img src="https://geps.dev/progress/100?dangerColor=808080&warningColor=808080&successColor=2ea44f" alt="100%"></td>
+            <!-- 100% - Deep Emerald Green -->
+            <td><img src="https://geps.dev/progress/100?dangerColor=808080&warningColor=808080&successColor=228b22" alt="100%"></td>
           </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C"></td>
-            <!-- 100% - Green -->
-            <td><img src="https://geps.dev/progress/100?dangerColor=808080&warningColor=808080&successColor=2ea44f" alt="100%"></td>
+            <!-- 100% - Deep Emerald Green -->
+            <td><img src="https://geps.dev/progress/100?dangerColor=808080&warningColor=808080&successColor=228b22" alt="100%"></td>
           </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/Assembly-%232E3A59.svg?style=flat&logo=microchip&logoColor=white"></td>
-            <!-- 100% - Green -->
-            <td><img src="https://geps.dev/progress/100?dangerColor=808080&warningColor=808080&successColor=2ea44f" alt="100%"></td>
+            <!-- 100% - Deep Emerald Green -->
+            <td><img src="https://geps.dev/progress/100?dangerColor=808080&warningColor=808080&successColor=228b22" alt="100%"></td>
           </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"></td>
-            <!-- 90% - Light Green/Yellow-Green -->
-            <td><img src="https://geps.dev/progress/90?dangerColor=808080&warningColor=808080&successColor=a4a62e" alt="90%"></td>
+            <!-- 90% - Leaf Green -->
+            <td><img src="https://geps.dev/progress/90?dangerColor=808080&warningColor=808080&successColor=55a630" alt="90%"></td>
           </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/SystemVerilog-%234B215C.svg?style=flat&logo=intel&logoColor=white"></td>
-            <!-- 80% - Yellow -->
-            <td><img src="https://geps.dev/progress/80?dangerColor=808080&warningColor=808080&successColor=dbab09" alt="80%"></td>
+            <!-- 80% - Yellow-Green -->
+            <td><img src="https://geps.dev/progress/80?dangerColor=808080&warningColor=808080&successColor=80b918" alt="80%"></td>
           </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"></td>
-            <!-- 75% - Golden Yellow -->
-            <td><img src="https://geps.dev/progress/75?dangerColor=808080&warningColor=808080&successColor=e3b341" alt="75%"></td>
+            <!-- 75% - Soft Lime -->
+            <td><img src="https://geps.dev/progress/75?dangerColor=808080&warningColor=808080&successColor=aacc00" alt="75%"></td>
           </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></td>
-            <!-- 70% - Orange -->
-            <td><img src="https://geps.dev/progress/70?dangerColor=808080&warningColor=808080&successColor=f66a0a" alt="70%"></td>
+            <!-- 70% - Yellow/Pear -->
+            <td><img src="https://geps.dev/progress/70?dangerColor=808080&warningColor=808080&successColor=bfd200" alt="70%"></td>
           </tr>
         </tbody>
       </table>
