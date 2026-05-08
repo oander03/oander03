@@ -30,7 +30,8 @@
             <td><a href="#!"><img src="https://geps.dev/progress/100?dangerColor=808080&warningColor=808080&successColor=228b22" alt="100%"></a></td>
           </tr>
           <tr>
-            <td><a href="#!"><img src="https://img.shields.io/badge/Assembly-%232E3A59.svg?style=flat&logo=microchip&logoColor=white"></a></td>
+            <td><a href="#!"><img src="https://img.shields.io/badge/Assembly-%232E3A59.svg?style=flat&logo=microchip&logoColor=white"> 
+              <img src="https://img.shields.io/badge/RISC--V-%2367AC4F.svg?style=flat&logo=riscv&logoColor=white"> </a></td>
             <td><a href="#!"><img src="https://geps.dev/progress/100?dangerColor=808080&warningColor=808080&successColor=228b22" alt="100%"></a></td>
           </tr>
           <tr>
